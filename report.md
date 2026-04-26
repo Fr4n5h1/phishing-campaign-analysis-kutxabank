@@ -2,8 +2,12 @@ SOC Incident Report – Phishing Campaign Analysis
 📌 Incident Summary
 
 A multi-stage phishing campaign targeting Spanish banking users (KutxaBank) was identified.
-The campaign leveraged compromised infrastructure, cloaking techniques, and credential harvesting mechanisms.
 
+The campaign leveraged:
+
+compromised infrastructure
+cloaking techniques
+credential harvesting mechanisms
 🎯 Objective
 Harvest banking credentials (NIF/NIE and password)
 Potentially capture OTP for account takeover
